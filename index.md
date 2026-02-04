@@ -1,8 +1,8 @@
 ---
-layout: post 
-title: Portfolio Home 
-hide: true
-show_reading_time: false
+layout: post
+title: index
+permalink: /index/
+comments: true
 ---
 
 ### Hi! My name is Roger Wang
