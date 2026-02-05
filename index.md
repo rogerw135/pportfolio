@@ -1,9 +1,4 @@
----
-layout: post
-title: index
-permalink: /index/
-comments: true
----
+
 
 ### Hi! My name is Roger Wang
 Here's some facts about me
